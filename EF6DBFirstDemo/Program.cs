@@ -9,6 +9,8 @@ namespace EF6DBFirstDemo
 {
     internal class Program
     {
+
+        // Простая модель Database-First
         private static void Main(string[] args)
         {
             AddUpdateDeleteEntityInConnectedScenario();
